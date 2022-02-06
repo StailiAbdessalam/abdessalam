@@ -86,6 +86,6 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhcine-daali/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:the.daali.mouhcine@gmail.com)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalimouhcine)  
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdessalam-staili-baa0ba229/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdoycode@gmail.com)](mailto:abdoycode@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BENJY33X)  
